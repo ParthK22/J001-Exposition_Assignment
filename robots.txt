@@ -1,1 +1,1 @@
-Sitemap: https://nipunbatra.github.io/quarto-template/sitemap.xml
+Sitemap: https://ParthK22.github.io/J001-Exposition_Assignment/sitemap.xml
